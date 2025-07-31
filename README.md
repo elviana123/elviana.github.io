@@ -39,9 +39,9 @@
 
   <h2></h2> 100% Pajak Dipercaya, Wujud dari Transparansi</h2>
   <p>Transparansi bukan pilihan, melainkan <strong>investasi kepercayaan bangsa</strong>. Digitalisasi bukan sekadar proyek teknologi, tapi upaya membentuk sistem perpajakan yang adil, terbuka, dan dipercaya rakyat.</p>
-  <p><strong>Ukuran negara kuat bukan seberapa banyak ia memungut pajak — tapi seberapa transparan ia mengelolanya.</strong></p>
+  <p></strong> Ukuran negara kuat bukan seberapa banyak ia memungut pajak — tetapi seberapa transparan ia mengelolanya. </strong></p>
 
-  <h3> Daftar Pustaka</h3>
+  <h3></h3> Daftar Pustaka</h3>
   <ul>
     <li>Olubunmi, A., & Paul, G. (2025). <em>Digital Taxation and SDGs in Developing Economies</em>. IJISRT.</li>
     <li>Bostan, I., Firtescu, B.N., & Droj, L. (2025). <em>Auditing the Country-Level Tax Compliance Situation</em>.</li>
